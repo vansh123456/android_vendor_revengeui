@@ -14,7 +14,6 @@
 
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
-    SoundPickerPrebuilt \
     WallpaperPickerGooglePrebuilt
 
 TARGET_MINIMAL_APPS ?= false
