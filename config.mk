@@ -18,8 +18,7 @@ PRODUCT_PACKAGES += \
     WallpaperPickerGooglePrebuilt \
     NexusLauncherPrebuilt \
     TimeZoneDataPrebuilt \
-    WellbeingPrebuilt \
-    MatchmakerPrebuilt
+    WellbeingPrebuilt
 
 TARGET_MINIMAL_APPS ?= false
 
