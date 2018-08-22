@@ -20,7 +20,8 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
     TimeZoneDataPrebuilt \
     WellbeingPrebuilt \
-    MarkupGoogle
+    MarkupGoogle \
+    MatchmakerPrebuilt
 
 TARGET_MINIMAL_APPS ?= false
 
