@@ -20,7 +20,8 @@ PRODUCT_PACKAGES += \
     TimeZoneDataPrebuilt \
     WellbeingPrebuilt \
     MarkupGoogle \
-    MatchmakerPrebuilt
+    MatchmakerPrebuilt \
+    WeatherClient
 
 TARGET_MINIMAL_APPS ?= false
 
@@ -70,3 +71,7 @@ PRODUCT_COPY_FILES += \
 # Include package overlays
 DEVICE_PACKAGE_OVERLAYS += \
     vendor/revengeui/overlay/common/
+
+# Weather
+PRODUCT_COPY_FILES += \
+    vendor/revengeui/etc/permissions/org.pixelexperience.weather.client.xml:system/etc/permissions/org.pixelexperience.weather.client.xml
