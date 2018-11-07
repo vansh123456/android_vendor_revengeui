@@ -77,4 +77,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
     org.pixelexperience.weather.revision=2
 
 PRODUCT_COPY_FILES += \
-    vendor/revengeui/etc/permissions/org.pixelexperience.weather.client.xml:system/etc/permissions/org.pixelexperience.weather.client.xml
+    vendor/revengeui/etc/permissions/org.pixelexperience.weather.client.xml:system/etc/permissions/org.pixelexperience.weather.client.xml \
+    vendor/revengeui/etc/default-permissions/org.pixelexperience.weather.client.xml:system/etc/default-permissions/org.pixelexperience.weather.client.xml
