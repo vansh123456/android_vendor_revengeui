@@ -70,3 +70,8 @@ PRODUCT_COPY_FILES += \
 # Include package overlays
 DEVICE_PACKAGE_OVERLAYS += \
     vendor/revengeui/overlay/common/
+
+# Primary Themes
+PRODUCT_PACKAGES += \
+    DarkThemeAndroidOverlay \
+    DarkThemeSettingsOverlay
