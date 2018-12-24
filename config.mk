@@ -19,16 +19,9 @@ PRODUCT_PACKAGES += \
     NexusLauncherPrebuilt \
     TimeZoneDataPrebuilt \
     WellbeingPrebuilt \
-    MarkupGoogle \
-    MatchmakerPrebuilt
+    MarkupGoogle
 
 TARGET_MINIMAL_APPS ?= false
-
-ifeq ($(TARGET_MINIMAL_APPS), false)
-PRODUCT_PACKAGES += \
-    NexusWallpapersStubPrebuilt2017 \
-    WallpapersUsTwo
-endif
 
 # build.prop entrys
 PRODUCT_PROPERTY_OVERRIDES += \
