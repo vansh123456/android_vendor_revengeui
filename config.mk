@@ -67,4 +67,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 # Primary Themes
 PRODUCT_PACKAGES += \
     DarkThemeAndroidOverlay \
-    DarkThemeSettingsOverlay
+    DarkThemeSettingsOverlay \
+    BlackThemeAndroidOverlay \
+    BlackThemeSettingsOverlay
