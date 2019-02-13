@@ -37,4 +37,11 @@
     <color name="toast_bg_color">#cc121212</color>
     <color name="toast_text_color">@android:color/white</color>
 
+    <!-- RevengeOS -->
+    <color name="gradient_start_dark">#0000ff</color>
+    <color name="gradient_end_dark">#00ff00</color>
+
+    <color name="gradient_start">@color/gradient_start_dark</color>
+    <color name="gradient_end">@color/gradient_end_dark</color>
+
 </resources>
