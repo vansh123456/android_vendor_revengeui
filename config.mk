@@ -70,3 +70,12 @@ PRODUCT_PACKAGES += \
     DarkThemeSettingsOverlay \
     BlackThemeAndroidOverlay \
     BlackThemeSettingsOverlay
+
+# Gradients
+PRODUCT_PACKAGES += \
+    PureLustTheme \
+    QuepalTheme \
+    ReaTheme \
+    SkylineTheme \
+    SublimeTheme \
+    TimberTheme
