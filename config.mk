@@ -73,9 +73,16 @@ PRODUCT_PACKAGES += \
 
 # Gradients
 PRODUCT_PACKAGES += \
+    FireTheme \
+    FlareTheme \
+    HyakkimaruTheme \
+    KyeMehTheme \
+    OrangeCoralTheme \
     PureLustTheme \
     QuepalTheme \
     ReaTheme \
     SkylineTheme \
     SublimeTheme \
-    TimberTheme
+    TimberTheme \
+    WitchingHourTheme \
+    YodaTheme
