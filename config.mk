@@ -81,6 +81,7 @@ PRODUCT_PACKAGES += \
     PureLustTheme \
     QuepalTheme \
     ReaTheme \
+    ShadesofGreyTheme \
     SkylineTheme \
     SublimeTheme \
     TimberTheme \
