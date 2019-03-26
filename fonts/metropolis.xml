@@ -1,0 +1,12 @@
+    <family name="metropolis">
+        <font weight="400" style="normal">Metropolis-Regular.ttf</font>
+        <font weight="400" style="italic">Metropolis-RegularItalic.ttf</font>
+        <font weight="500" style="normal">Metropolis-Medium.ttf</font>
+        <font weight="500" style="italic">Metropolis-MediumItalic.ttf</font>
+        <font weight="600" style="normal">Metropolis-SemiBold.ttf</font>
+        <font weight="600" style="italic">Metropolis-SemiBoldItalic.ttf</font>
+        <font weight="700" style="normal">Metropolis-Bold.ttf</font>
+        <font weight="700" style="italic">Metropolis-BoldItalic.ttf</font>
+    </family>
+
+    <alias name="metropolis-medium" to="metropolis" weight="500" />

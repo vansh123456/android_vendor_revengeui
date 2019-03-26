@@ -38,6 +38,19 @@ else
     $(error "RevengeOS: TARGET_BOOT_ANIMATION_RES is undefined")
 endif
 
+# Fonts
+PRODUCT_COPY_FILES += \
+    vendor/revengeui/fonts/Metropolis-Regular.ttf:system/fonts/Metropolis-Regular.ttf \
+    vendor/revengeui/fonts/Metropolis-RegularItalic.ttf:system/fonts/Metropolis-Italic.ttf \
+    vendor/revengeui/fonts/Metropolis-Medium.ttf:system/fonts/Metropolis-Medium.ttf \
+    vendor/revengeui/fonts/Metropolis-MediumItalic.ttf:system/fonts/Metropolis-MediumItalic.ttf \
+    vendor/revengeui/fonts/Metropolis-SemiBold.ttf:system/fonts/Metropolis-SemiBold.ttf \
+    vendor/revengeui/fonts/Metropolis-SemiBoldItalic.ttf:system/fonts/Metropolis-SemiBoldItalic.ttf \
+    vendor/revengeui/fonts/Metropolis-Bold.ttf:system/fonts/Metropolis-Bold.ttf \
+    vendor/revengeui/fonts/Metropolis-BoldItalic.ttf:system/fonts/Metropolis-BoldItalic.ttf
+
+ADDITIONAL_FONTS_FILE := vendor/revengeui/fonts/metropolis.xml
+
 # Pixel sysconfig
 PRODUCT_COPY_FILES += \
     vendor/revengeui/etc/sysconfig/pixel.xml:system/etc/sysconfig/pixel.xml
