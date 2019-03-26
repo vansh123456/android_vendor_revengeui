@@ -38,15 +38,6 @@ else
     $(error "RevengeOS: TARGET_BOOT_ANIMATION_RES is undefined")
 endif
 
-# Fonts
-PRODUCT_COPY_FILES += \
-    vendor/revengeui/fonts/GoogleSans-Regular.ttf:system/fonts/GoogleSans-Regular.ttf \
-    vendor/revengeui/fonts/GoogleSans-Medium.ttf:system/fonts/GoogleSans-Medium.ttf \
-    vendor/revengeui/fonts/GoogleSans-MediumItalic.ttf:system/fonts/GoogleSans-MediumItalic.ttf \
-    vendor/revengeui/fonts/GoogleSans-Italic.ttf:system/fonts/GoogleSans-Italic.ttf \
-    vendor/revengeui/fonts/GoogleSans-Bold.ttf:system/fonts/GoogleSans-Bold.ttf \
-    vendor/revengeui/fonts/GoogleSans-BoldItalic.ttf:system/fonts/GoogleSans-BoldItalic.ttf
-
 # Pixel sysconfig
 PRODUCT_COPY_FILES += \
     vendor/revengeui/etc/sysconfig/pixel.xml:system/etc/sysconfig/pixel.xml
