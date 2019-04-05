@@ -16,7 +16,6 @@
 PRODUCT_PACKAGES += \
     SoundPickerPrebuilt \
     WallpaperPickerGooglePrebuilt \
-    NexusLauncherPrebuilt \
     TimeZoneDataPrebuilt \
     WellbeingPrebuilt \
     MarkupGoogle
