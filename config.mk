@@ -76,18 +76,26 @@ PRODUCT_PACKAGES += \
 
 # Gradients
 PRODUCT_PACKAGES += \
+    BlueSkyTheme \
     CherryTheme \
+    DeepSkylineTheme \
+    DeepSunsetTheme \
     FireTheme \
     FlareTheme \
+    GrapeVineTheme \
     HyakkimaruTheme \
     KyeMehTheme \
+    LavenderTheme \
+    LightSeaStormTheme \
     OrangeCoralTheme \
     PeachyTheme \
+    PolarGreenTheme \
     PureLustTheme \
     QuepalTheme \
     ReaTheme \
     SeaStormTheme \
     ShadesofGreyTheme \
+    SinCityRedTheme \
     SkylineTheme \
     SublimeTheme \
     TimberTheme \
