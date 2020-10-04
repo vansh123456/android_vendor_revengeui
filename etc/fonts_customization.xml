@@ -34,4 +34,13 @@
         <font weight="700" style="italic">Urbanist-BoldItalic.ttf</font>
     </family>
     <alias name="urbanist-semibold" to="urbanist" weight="600" />
+
+    <family customizationType="new-named-family" name="Samsung-Sans">
+        <font weight="300" style="normal">Samsung-Sans-Light.ttf</font>
+        <font weight="400" style="normal">Samsung-Sans-Regular.ttf</font>
+        <font weight="700" style="normal">Samsung-Sans-Bold.ttf</font>
+        <font weight="500" style="normal">Samsung-Sans-Medium.ttf</font>
+        <font weight="100" style="normal">Samsung-Sans-Thin.ttf</font>
+    </family>
+    <alias name="Samsung-Sans-semibold" to="Samsung-Sans" weight="600" />
 </fonts-modification>
