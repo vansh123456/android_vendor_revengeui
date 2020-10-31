@@ -50,7 +50,7 @@ endif
 PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     RevengeMessages \
-    RevengeOSThemePicker
+    ThemePicker
 
 # Gradients
 PRODUCT_PACKAGES += \
