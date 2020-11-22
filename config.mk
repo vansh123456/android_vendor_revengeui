@@ -50,7 +50,6 @@ endif
 # Apps
 PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
-    RevengeMessages \
     ThemePicker
 
 # Gradients
