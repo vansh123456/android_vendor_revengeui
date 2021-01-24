@@ -69,4 +69,5 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
+    RevengeUIClassicSystemUIOverlay \
     RevengeOSCustomisation
